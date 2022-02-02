@@ -1,0 +1,14 @@
+.headerBox{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    background-color: #C46D17;
+}
+
+.container{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 80%;
+    border: 1px solid black;
+}
