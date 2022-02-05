@@ -1,25 +1,18 @@
-.portfolioBox{
+.offerBox{
+    padding: 100px 0;
     display: flex;
     justify-content: center;
-    padding: 100px 0;
-    background-color: #C9AFC5;
+    background-color: #1970D0;
 }
-
 .container{
     display: flex;
     flex-direction: column;
-    padding: 20px 0;
+    align-items: center;
     width: 80%;
+    padding: 20px 0;
     border: 1px solid black;
 }
 
 .title{
     background-color: chartreuse;
-    margin: 0 auto;
 }
-
-.project{
-    display: flex;
-    justify-content: space-between;
-}
-
