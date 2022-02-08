@@ -14,6 +14,17 @@
     border: 1px solid black;
 }
 
-.image{
-    width: 490px;
+.text{
+    background-color: chartreuse;
 }
+
+.photo{
+    width: 40%;
+    height: 90%;
+    background-color: chartreuse;
+}
+
+
+/*.image{*/
+/*    width: 490px;*/
+/*}*/

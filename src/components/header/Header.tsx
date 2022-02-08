@@ -4,11 +4,11 @@ import {NavBar} from "./navBar/NavBar";
 
 export const Header = () => {
     return (
-        <div className={styles.headerBox}>
+        <header className={styles.headerBox}>
             <div className={styles.container}>
                 <NavBar/>
             </div>
 
-        </div>
+        </header>
     );
 };

@@ -7,9 +7,9 @@ export const Contacts = () => {
             <div className={styles.container}>
                 <h2 className={styles.title}>Contacts withs Котиком</h2>
                 <form action="" className={styles.form}>
-                    <input type="text"/>
-                    <input type="text"/>
-                    <textarea name="" id="" ></textarea>
+                    <input type="text" placeholder={"Name"}/>
+                    <input type="text" placeholder={"Vorname"}/>
+                    <textarea  className={styles.textarea} name="" id=""></textarea>
 
                 </form>
                 <button>Send</button>
