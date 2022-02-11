@@ -21,5 +21,6 @@
 .containerSkills {
     display: flex;
     justify-content: space-between;
-
+    flex-wrap: wrap;
+    /*align-self: center;*/
 }

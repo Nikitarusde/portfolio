@@ -6,6 +6,13 @@ export const Footer = () => {
         <footer className={styles.footerBox}>
             <div className={styles.container}>
                 <h3 className={styles.name}>Nikita</h3>
+                <div className={styles.boxQuadrat}>
+                    <div className={styles.quadrat}></div>
+                    <div className={styles.quadrat}></div>
+                    <div className={styles.quadrat}></div>
+                    <div className={styles.quadrat}></div>
+                    <div className={styles.quadrat}></div>
+                </div>
                 <span>2022 Все права котиков защищены</span>
             </div>
         </footer>

@@ -15,3 +15,14 @@
 .name{
     background-color: chartreuse;
 }
+.boxQuadrat{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quadrat{
+    width: 40px;
+    height: 40px;
+    margin: 0 5px;
+    background-color: chartreuse;
+}
